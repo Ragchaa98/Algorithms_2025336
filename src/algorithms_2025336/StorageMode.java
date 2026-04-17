@@ -13,3 +13,4 @@ public enum StorageMode {
     STACK,
     QUEUE
 }
+// Enum to define storage behavior: STACK (LIFO) or QUEUE (FIFO)
