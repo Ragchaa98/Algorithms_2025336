@@ -41,3 +41,4 @@ public interface StorageInterface {
     // Returns the current storage mode
     StorageMode getMode();
 }
+// Interface defining core storage operations for Stack and Queue
