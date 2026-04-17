@@ -102,3 +102,4 @@ public abstract class FoodItem {
                 + ", Placed Time: " + placedTime;
     }
 }
+// Abstract base class for all food items in the restaurant storage system
