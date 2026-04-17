@@ -15,3 +15,4 @@ public class Fries extends FoodItem {
         super("Fries", weight, bestBeforeDate);
     }
 }
+// Subclass of FoodItem representing a specific food type
