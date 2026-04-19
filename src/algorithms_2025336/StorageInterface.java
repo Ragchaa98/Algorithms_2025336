@@ -42,3 +42,5 @@ public interface StorageInterface {
     StorageMode getMode();
 }
 // Interface defining core storage operations for Stack and Queue
+
+// Time complexity: O(n) - linear search through all items
