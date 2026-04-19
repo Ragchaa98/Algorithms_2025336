@@ -23,4 +23,5 @@ public class Algorithms_2025336 {
     }   
 }
 
+
 // Main entry point - launches the Restaurant Storage GUI application
