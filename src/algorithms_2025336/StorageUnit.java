@@ -146,3 +146,5 @@ public class StorageUnit implements StorageInterface {
     }
 }
 // StorageUnit implements both Stack and Queue using Deque
+
+// Time complexity: O(1) - add to front (STACK) or rear (QUEUE)
