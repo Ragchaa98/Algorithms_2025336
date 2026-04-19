@@ -441,3 +441,4 @@ public class RestaurantStorageGUI extends javax.swing.JFrame {
     private javax.swing.JTextField weightField;
     // End of variables declaration//GEN-END:variables
 }
+// GUI class for managing restaurant food storage with Stack and Queue modes
